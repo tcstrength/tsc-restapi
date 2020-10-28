@@ -1,22 +1,34 @@
-com/github/tsctrength/tsc/web/Application.java
- com.github.tsctrength.tsc.web.Application
-com/github/tsctrength/tsc/web/service/AppTranDayService.java
- com.github.tsctrength.tsc.web.service.AppTranDayService
-com/github/tsctrength/tsc/web/model/AppTranDay.java
- com.github.tsctrength.tsc.web.model.AppTranDay
-com/github/tsctrength/tsc/web/controller/PingController.java
- com.github.tsctrength.tsc.web.controller.PingController
-com/github/tsctrength/tsc/web/repo/AppTranDayRepo.java
- com.github.tsctrength.tsc.web.repo.AppTranDayRepo
+com/github/tsctrength/tsc/web/repo/ProcessingLogRepo.java
+ com.github.tsctrength.tsc.web.repo.ProcessingLogRepo
+com/github/tsctrength/tsc/web/model/CacheDbAgg.java
+ com.github.tsctrength.tsc.web.model.CacheDbAgg
+com/github/tsctrength/tsc/web/model/ProcessingLog.java
+ com.github.tsctrength.tsc.web.model.ProcessingLog
+com/github/tsctrength/tsc/web/repo/CacheDbLogRepo.java
+ com.github.tsctrength.tsc.web.repo.CacheDbLogRepo
+com/github/tsctrength/tsc/web/service/ProcessingLogService.java
+ com.github.tsctrength.tsc.web.service.ProcessingLogService
+com/github/tsctrength/tsc/web/Cache.java
+ com.github.tsctrength.tsc.web.Cache
+com/github/tsctrength/tsc/web/model/CacheDbLog.java
+ com.github.tsctrength.tsc.web.model.CacheDbLog
+com/github/tsctrength/tsc/web/repo/CacheDbAggRepo.java
+ com.github.tsctrength.tsc.web.repo.CacheDbAggRepo
+com/github/tsctrength/tsc/web/service/CacheDbLogService.java
+ com.github.tsctrength.tsc.web.service.CacheDbLogService
+com/github/tsctrength/tsc/web/repo/ProcessingAggRepo.java
+ com.github.tsctrength.tsc.web.repo.ProcessingAggRepo
 com/github/tsctrength/tsc/web/DateYmd.java
  com.github.tsctrength.tsc.web.DateYmd
-com/github/tsctrength/tsc/web/model/UserTranDay.java
- com.github.tsctrength.tsc.web.model.UserTranDay
-com/github/tsctrength/tsc/web/controller/AppTranDayController.java
- com.github.tsctrength.tsc.web.controller.AppTranDayController
-com/github/tsctrength/tsc/web/repo/UserTranDayRepo.java
- com.github.tsctrength.tsc.web.repo.UserTranDayRepo
-com/github/tsctrength/tsc/web/controller/UserTranDayController.java
- com.github.tsctrength.tsc.web.controller.UserTranDayController
-com/github/tsctrength/tsc/web/service/UserTranDayService.java
- com.github.tsctrength.tsc.web.service.UserTranDayService
+com/github/tsctrength/tsc/web/model/UserCountDay.java
+ com.github.tsctrength.tsc.web.model.UserCountDay
+com/github/tsctrength/tsc/web/Application.java
+ com.github.tsctrength.tsc.web.Application
+com/github/tsctrength/tsc/web/model/ProcessingAgg.java
+ com.github.tsctrength.tsc.web.model.ProcessingAgg
+com/github/tsctrength/tsc/web/repo/UserCountDayRepo.java
+ com.github.tsctrength.tsc.web.repo.UserCountDayRepo
+com/github/tsctrength/tsc/web/service/UserCountDayService.java
+ com.github.tsctrength.tsc.web.service.UserCountDayService
+com/github/tsctrength/tsc/web/controller/UiController.java
+ com.github.tsctrength.tsc.web.controller.UiController
